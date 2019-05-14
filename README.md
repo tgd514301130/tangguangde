@@ -1,5 +1,5 @@
 project descriptions:</br>
-一、class-loader: (动态编译数据库算法的工厂类)</br>
+一、class-loader: (动态编译mysql数据库存放的Java算法代码的工具，兼容分布式系统)</br>
  1、项目启动时，一次性编译加载所有算法  </br>
  2、界面上修改算法时，实时编译加载  </br>
  3、将数据库存储的代码拿出来编译好，放到JVM缓存  </br>
